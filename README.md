@@ -13,8 +13,11 @@ Last.Fm Now Playing Twitter Bio
 # Install
 
 `$ git clone https://github.com/afcbrandon/LFMNPTB.git`
+
 `$ cd LFMNPTB`
+
 `$ pip install -r requirements.txt`
+
 `$ nano np.py`
 
 Repalce with your information
