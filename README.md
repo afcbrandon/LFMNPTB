@@ -33,7 +33,9 @@ here are my settings for the cron job I set for the script to run every 5 min.
 `crontab -e`
 
 make sure to use the direct path python3 and the script
+
 `*/5 * * * * /usr/bin/python3 /direct/path/to/the/script/np.py > /dev/null 2>&1`
+
 "> /dev/null 2>&1" turns of mail and logs for this script since it will be running so much.
 
 [follow me on twitter](https://twitter.com/brandonandrsn)
